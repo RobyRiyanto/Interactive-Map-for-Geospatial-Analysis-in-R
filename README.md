@@ -1,0 +1,1 @@
+This dashboard is made for educational purposes only and as a prerequisite for obtaining a certificate from Algoritma Data Science Academy as a final project in the DSS Workshop: Building Interactive Maps for Geospatial Analysis in R.
